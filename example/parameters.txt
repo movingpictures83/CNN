@@ -1,0 +1,8 @@
+classnames	classnames.txt
+trainset	train_images.csv
+testset	test_images.csv
+tensor	tensors.tsv
+dense	dense.tsv
+optimize	adam
+metric	accuracy
+epochs	10

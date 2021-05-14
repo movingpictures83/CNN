@@ -1,0 +1,2 @@
+Prefix plugins/CNN/example
+Plugin CNN inputfile parameters.txt outputfile classifications
