@@ -22,3 +22,6 @@ Output probabilities and final classifications will be generated as CSV files:
 
 PREFIX.probs.csv: CSV file of classification probabilities (images are rows, classification groups are columns)
 PREFIX.final.csv: Official classification of each image
+
+Note: The provided example set is modeled directly after the Tensorflow tutorial, using the CIFAR image set:
+https://www.tensorflow.org/tutorials/images/cnn
