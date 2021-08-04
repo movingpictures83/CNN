@@ -8,6 +8,9 @@ from PIL import Image as im
 
 import PyPluMA
 
+import random
+random.seed(1234)
+
 class CNNPlugin:
     def input(self, filename):
        self.parameters = dict()
